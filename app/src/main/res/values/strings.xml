@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SkeletonProject</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    <string name="error_please_check_your_internet">Please check your internet or try again later.</string>
+    <string name="error_some_thing_went_wrong">Some thing went wrong. Please try again later</string>
+
+    <string name="error_low_storage">Camera cannot be started due to low device storage</string>
+
+    <string name="permission_camera_rationale">Access to the camera is needed to take photo</string>
+    <string name="permission_denied_message">"If you reject permission,you can not use this service\n\nPlease turn on permissions at [Setting] > [Permission]"</string>
+    <string name="permission_denied_message_location">"If you reject location permission,you can not use this service\n\nPlease turn on permissions at [Setting] > [Permission]"</string>
+</resources>

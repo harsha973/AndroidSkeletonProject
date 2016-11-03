@@ -1,0 +1,49 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="text_extra_small">12sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+    <dimen name="text_normal">16sp</dimen>
+    <dimen name="text_large">18sp</dimen>
+    <dimen name="text_xlarge">24sp</dimen>
+    <dimen name="text_xxlarge">36sp</dimen>
+    <!--//  For tile FA-->
+    <dimen name="text_xxxlarge">48sp</dimen>
+
+    <!--Margin-->
+    <dimen name="margin_triple">58dp</dimen>
+    <dimen name="margin_double">32dp</dimen>
+    <dimen name="margin_standard">16dp</dimen>
+    <dimen name="margin_standard_negative">-16dp</dimen>
+    <dimen name="margin_half">8dp</dimen>
+    <dimen name="margin_short">6dp</dimen>
+    <dimen name="margin_extra_short">4dp</dimen>
+
+    <!--padding-->
+    <dimen name="padding_extra_double">48dp</dimen>
+    <dimen name="padding_double">32dp</dimen>
+    <dimen name="padding_standard">16dp</dimen>
+    <dimen name="padding_half">8dp</dimen>
+    <dimen name="padding_short">6dp</dimen>
+    <dimen name="padding_extra_short">4dp</dimen>
+
+    <!--Corners-->
+    <dimen name="corner_radius_default">4dp</dimen>
+    <dimen name="corner_radius_small">2dp</dimen>
+
+    <!--Button-->
+    <!--These values are adapted from google material guidelines-->
+    <dimen name="button_min_width">88dp</dimen>
+    <dimen name="button_height">36dp</dimen>
+
+    <!--Tile-->
+    <dimen name="tile_min_size">200dp</dimen>
+
+    <!--Image sizes-->
+    <dimen name="preview_image_size">100dp</dimen>
+    <dimen name="preview_image_size_tiny">25dp</dimen>
+    <dimen name="status_image_size">25dp</dimen>
+</resources>

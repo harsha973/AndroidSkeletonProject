@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">true</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:textViewStyle">@style/AppTheme.Widget.TextView</item>
+        <item name="android:editTextStyle">@style/AppTheme.EditTextStyle</item>
+        <item name="editTextStyle">@style/AppTheme.EditTextStyle</item>
+        <item name="android:buttonStyle">@style/AppTheme.Widget.Button.Default</item>
+        <item name="buttonStyle">@style/AppTheme.Widget.Button.Default</item>
+        <item name="android:progressBarStyle">@style/AppTheme.Widget.ProgressBar</item>
+        <item name="android:progressBarStyleSmall">@style/AppTheme.Widget.ProgressBar.Small</item>
+        <item name="android:progressBarStyleLarge">@style/AppTheme.Widget.ProgressBar.Large</item>
+    </style>
+</resources>
