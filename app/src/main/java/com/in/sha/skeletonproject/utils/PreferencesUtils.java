@@ -13,7 +13,7 @@ import java.util.Date;
  */
 public class PreferencesUtils {
 
-	private static final String PREFERENCES_NAME = "Hazardgo_Preferences";
+	private static final String PREFERENCES_NAME = "Skeleton_Preferences";
 
 	public static final String KEY_USER_GUID = "USER_GUID";
 	public static final String KEY_USER_NAME = "USER_NAME";

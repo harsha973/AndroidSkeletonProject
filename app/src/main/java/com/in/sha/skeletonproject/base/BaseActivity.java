@@ -21,7 +21,7 @@ import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
 public abstract class BaseActivity extends AppCompatActivity
 {
-	public static final String ACTION_SIGN_OUT = "davanti.co.nz.skeletonproject.ACTION_SIGN_OUT";
+	public static final String ACTION_SIGN_OUT = "co.in.sha.skeletonproject.ACTION_SIGN_OUT";
 	public static final String TAG = BaseActivity.class.getSimpleName();
 
 	/**

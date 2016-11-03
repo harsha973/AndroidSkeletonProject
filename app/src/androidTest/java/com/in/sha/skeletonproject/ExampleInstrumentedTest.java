@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("davanti.co.nz.skeletonproject", appContext.getPackageName());
+        assertEquals("co.in.sha.skeletonproject", appContext.getPackageName());
     }
 }
