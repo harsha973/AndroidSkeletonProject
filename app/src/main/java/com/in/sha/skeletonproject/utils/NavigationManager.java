@@ -12,7 +12,7 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 
 /**
- * Created by dallaskuhn on 19/08/15.
+ * Created by sreepolavarapu on 19/08/15.
  * Use this Helper to navigate between activities.
  */
 public class NavigationManager
