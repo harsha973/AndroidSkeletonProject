@@ -1,4 +1,4 @@
 # AndroidSkeletonProject
-Skeleton to easily start of any new Android Application
 
-**DEPRECATED**
+**DEPRECATED** Skeleton to easily start of any new Android Application
+
